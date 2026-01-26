@@ -38,7 +38,7 @@
 ```python
 numbers = [10, 20, 30]
 numbers.append(40)   # додати в кінець
-numbers [dataquest](https://www.dataquest.io/blog/data-structures-in-python/) = 25      # змінити елемент
+numbers[0] = 25      # змінити елемент
 ```
 
 Важливі властивості:
